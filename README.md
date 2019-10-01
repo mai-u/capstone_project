@@ -5,6 +5,12 @@ Capstone individual project (4 weeks timeframe):
 This project was completed during my time on the General Assembly Data Science Immersive course in London.
 
 -------
+## Executive Summary
+Through my analysis of Yelp data, I aim to identify **common traits which are predictive of restaurant success and failure**, and to **use these insights to help new restaurants achieve success**.
+
+I performed various statistical learning models including **regression and classification predictive modeling, sentiment analysis, and natural language processing** to achieve the goal. I created classification models that predict future outcomes for restaurants with a 75% accuracy. Actionable insights were extracted from the dataset with statistical analysis, identifying problems and opportunities for a restaurant owner, proposing new ideas.
+
+-------
 ## Files in This Repository
 
  - [**Presentation slides**](https://github.com/mai-u/capstone_project/blob/master/Capstone_Result_Presentation.pdf): This was prepared to present the project, results, and recommendations to non-technical audience 
@@ -17,12 +23,6 @@ This project was completed during my time on the General Assembly Data Science I
 		-   [Research Question 1](https://nbviewer.jupyter.org/github/mai-u/capstone_project/blob/master/Jupyter_Notebook_files/Step_04_Question_1_Data_Modeling.ipynb)
 		-   [Research Question 2](https://nbviewer.jupyter.org/github/mai-u/capstone_project/blob/master/Jupyter_Notebook_files/Step_04_Question_2_Data_Modeling.ipynb)
 		-   [Research Question 3](https://nbviewer.jupyter.org/github/mai-u/capstone_project/blob/master/Jupyter_Notebook_files/Step_04_Question_3_Data_Modeling.ipynb)
-
--------
-## Executive Summary
-Through my analysis of Yelp data, I aim to identify **common traits which are predictive of restaurant success and failure**, and to **use these insights to help new restaurants achieve success**.
-
-I performed various statistical learning models including **regression and classification predictive modeling, sentiment analysis, and natural language processing** to achieve the goal. I created classification models that predict future outcomes for restaurants with a 75% accuracy. Actionable insights were extracted from the dataset with statistical analysis, identifying problems and opportunities for a restaurant owner, proposing new ideas.
 
 -------
 ## Problem Statement
