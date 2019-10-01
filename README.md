@@ -10,7 +10,6 @@ Through my analysis of Yelp data, I aim to identify **common traits which are pr
 
 I performed various statistical learning models including **regression and classification predictive modeling, sentiment analysis, and natural language processing** to achieve the goal. I created classification models that predict future outcomes for restaurants with a 75% accuracy. Actionable insights were extracted from the dataset with statistical analysis, identifying problems and opportunities for a restaurant owner, proposing new ideas.
 
--------
 ## Files in This Repository
 
  - [**Presentation slides**](https://github.com/mai-u/capstone_project/blob/master/Capstone_Result_Presentation.pdf): This was prepared to present the project, results, and recommendations to non-technical audience 
