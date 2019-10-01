@@ -3,6 +3,7 @@
 
 ## **“Ingredients for a successful restaurant - Predicting restaurant success and identifying good business practices”**
 
+======
 This project was completed during my time at the General Assembly Data Science Immersive course in London.
 
 ------
