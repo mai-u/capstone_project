@@ -1,1 +1,15 @@
-# capstone_project
+#### Files in this repository 
+- Technical Reports
+- Presentation slides for non-technical audience
+- Technical report 
+- Github
+- PDF
+- Data dictionary
+- Jupyter Notebook files (.ipynb)
+  - Step 1
+  - Step 2
+  - Step 3
+  - Step 4
+    - Question 1
+    - Question 2
+    - Question 3
