@@ -1,3 +1,11 @@
+
+**Capstone individual project (4 weeks timeframe)**
+
+## **“Ingredients for a successful restaurant - Predicting restaurant success and identifying good business practices”**
+
+This project was completed during my time at the General Assembly Data Science Immersive course in London.
+
+------
 #### Files in this repository 
 - Presentation slides for non-technical audience
 - Technical report 
