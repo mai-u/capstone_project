@@ -119,19 +119,27 @@ I found that:
 <a href="https://imgur.com/lQQVaaO"><img src="https://i.imgur.com/lQQVaaO.png" title="source: imgur.com" /></a>
 
 ## Conclusion
+
+### To Client
 - Classification models managed to:
     -   Predict future success with 75% accuracy (vs. baseline 67%)
     -   Identify:
         -   Good business practices
         -   Risks for business failure
-
 - Based on the results of sentiment analysis, restaurants should focus on more physical attributes than customer perception
-
 - Based on nationwide analysis, restaurants would do well by:
     -  Offering parking spaces    
     -  Focusing on high margin food
     -  Avoiding commissions and unnecessary rent fees
-
 - Restaurants should regularly analyse customer comments by:
     -   Checking frequently used words in reviews
     -   Avoiding subjective statements
+    
+### To Technical Audience
+The goal of this paper is to look for features in order to better predict the future success of a restaurant. I generated features through several aspects, and both text and non-text features were covered.
+
+It turns out that our model works fairly well, and achieved a 75+% accuracy in the end (65% baseline).
+
+Since the goal of this project is to help restaurant owners and investors decide if certain restaurant/category is worth investing, precision for the 'successful' class is critical. The precision rate for 'successful' class is 75%, which means that in all restaurants that models tried to predict, 75% of them were predicted correctly. The coefficient table was provided to understand which features are the most important for prediction.
+
+If someone who is not familiar with a given place wants to open a business or invest in a city, my models might be helpful for one to learn, exploit and improve weaknesses and strengthen the competitive advantages.
