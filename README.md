@@ -1,7 +1,21 @@
+
 Capstone individual project (4 weeks timeframe):
 # **“Ingredients for a successful restaurant - Predicting restaurant success and identifying good business practices”**
 
 This project was completed during my time on the General Assembly Data Science Immersive course in London.
+
+## Files in This Repository
+
+ - [**Presentation slides**](https://github.com/mai-u/capstone_project/blob/master/Capstone_Result_Presentation.pdf): This was prepared to present the project, results, and recommendations to non-technical audience 
+-   [**Technical report**](https://nbviewer.jupyter.org/github/mai-u/capstone_project/blob/master/Capstone_Technical_Report.ipynb): This was prepared for reporting and explaining my project to technical audience. It is written in detail about a literature review, data cleaning, feature engineering process, exploratory data analysis, findings per research question, limitations and recommendations for future research. 
+-   **Jupyter Notebook files (.ipynb)**:
+	-   Step 1: [Dataset and Data Collection](https://nbviewer.jupyter.org/github/mai-u/capstone_project/blob/master/Jupyter_Notebook_files/Step_01_Dataset_and_Data_Collection.ipynb)
+	-   Step 2: [Data Cleaning](https://nbviewer.jupyter.org/github/mai-u/capstone_project/blob/master/Jupyter_Notebook_files/Step_02_Data_Cleaning.ipynb)
+	-   Step 3: [Exploratory Data Analysis](https://nbviewer.jupyter.org/github/mai-u/capstone_project/blob/master/Jupyter_Notebook_files/Step_03_Exploratory_Data_Analysis.ipynb)
+	-   Step 4: Data Modeling 
+		-   [Research Question 1](https://nbviewer.jupyter.org/github/mai-u/capstone_project/blob/master/Jupyter_Notebook_files/Step_04_Question_1_Data_Modeling.ipynb)
+		-   [Research Question 2](https://nbviewer.jupyter.org/github/mai-u/capstone_project/blob/master/Jupyter_Notebook_files/Step_04_Question_2_Data_Modeling.ipynb)
+		-   [Research Question 3](https://nbviewer.jupyter.org/github/mai-u/capstone_project/blob/master/Jupyter_Notebook_files/Step_04_Question_3_Data_Modeling.ipynb)
 
 ## Overview
 Through my analysis of Yelp data, I aim to identify **common traits which are predictive of restaurant success and failure**, and to **use these insights to help new restaurants achieve success**.
