@@ -59,12 +59,12 @@ Since it is a binary classification problem (1 as successful and 0 as failed), I
 
 1.  Logistic Regression with a Ridge penalty
 2.  Logistic Regression with a Lasso penalty
-3.  Gridsearch on Logistic Regression
+3.  GridsearchCV on Logistic Regression
 4.  K-Nearest Neighbours Classifier
 5.  Ada Boost Classifier
 6.  Gradient Boosting Classifier
 7.  Decision Tree Classifier
-8.  Gridsearch on Decision Tree Classifier
+8.  GridsearchCV on Decision Tree Classifier
 9.  Support Vector Machine
    
 I aimed to show the likelihood of success to restaurant owners by using predict_proba of classification models since the function returns the probability for each outcome class as a value between 0 and 1. In addition to the above, I used CountVectorizer to extract good business practices for question 3.
