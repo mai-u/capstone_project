@@ -1,11 +1,10 @@
 #### Files in this repository 
-- Technical Reports
 - Presentation slides for non-technical audience
 - Technical report 
-- Github
-- PDF
-- Data dictionary
+  - Jupyter Notebook
+  - PDF version
 - Jupyter Notebook files (.ipynb)
+  - Data dictionary
   - Step 1
   - Step 2
   - Step 3
