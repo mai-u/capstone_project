@@ -101,7 +101,7 @@ It implies that star rating and sentiment did no help in predicting the success 
 Non-text features, especially business features, have a strong correlation to future restaurant performance. Classification models predicted future success with 75% accuracy. 
 
 Comparing the classifiers, eight out of ten classification models achieved similar scores on evaluation metrics. Except Decision Tree Classifier, the results from train sets and test sets are quite close for different models.
-<a href="https://imgur.com/3PkaPUO"><img src="https://i.imgur.com/3PkaPUO.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/vWCprkX"><img src="https://i.imgur.com/vWCprkX.png" title="source: imgur.com" /></a>
 
 **Important categories for business success:**
 <a href="https://imgur.com/KlRXoQI"><img src="https://i.imgur.com/KlRXoQI.png" title="source: imgur.com" /></a>
