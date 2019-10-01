@@ -119,19 +119,19 @@ I found that:
 <a href="https://imgur.com/lQQVaaO"><img src="https://i.imgur.com/lQQVaaO.png" title="source: imgur.com" /></a>
 
 ## Conclusion
-Classification models managed to:
--   Predict future success with 75% accuracy (vs. baseline 67%)
--   Identify:
-	-   Good business practices
-	-   Risks for business failure
+- Classification models managed to:
+    -   Predict future success with 75% accuracy (vs. baseline 67%)
+    -   Identify:
+        -   Good business practices
+        -   Risks for business failure
 
-Based on the results of sentiment analysis, restaurants should focus on more physical attributes than customer perception
+- Based on the results of sentiment analysis, restaurants should focus on more physical attributes than customer perception
 
-Based on nationwide analysis, restaurants would do well by:
--  Offering parking spaces    
--   Focusing on high margin food
--   Avoiding commissions and unnecessary rent fees
+- Based on nationwide analysis, restaurants would do well by:
+    -  Offering parking spaces    
+    -  Focusing on high margin food
+    -  Avoiding commissions and unnecessary rent fees
 
-Restaurants should regularly analyse customer comments by:
--   Checking frequently used words in reviews
--   Avoiding subjective statements
+- Restaurants should regularly analyse customer comments by:
+    -   Checking frequently used words in reviews
+    -   Avoiding subjective statements
