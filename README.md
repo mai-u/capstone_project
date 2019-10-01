@@ -94,14 +94,14 @@ It turned out that the test and mean cross-validation scores of any models were 
 
 It implies that star rating and sentiment did no help in predicting the success of the restaurant. It leads to the conclusion that restaurants with low review stars and sentiment scores were not necessarily more likely to shut down.
 
-<a href="https://imgur.com/b3G5g8E"><img src="https://i.imgur.com/b3G5g8E.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/MOic32f"><img src="https://i.imgur.com/MOic32f.png" title="source: imgur.com" /></a>
 
 ### Question 2. Are business attributes and ambience features correlated to future success? If so, what did successful restaurants do?
 
 Non-text features, especially business features, have a strong correlation to future restaurant performance. Classification models predicted future success with 75% accuracy. 
 
 Comparing the classifiers, eight out of ten classification models achieved similar scores on evaluation metrics. Except Decision Tree Classifier, the results from train sets and test sets are quite close for different models.
-<a href="https://imgur.com/8ZFvmNr"><img src="https://i.imgur.com/8ZFvmNr.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/3PkaPUO"><img src="https://i.imgur.com/3PkaPUO.png" title="source: imgur.com" /></a>
 
 **Important categories for business success:**
 <a href="https://imgur.com/KlRXoQI"><img src="https://i.imgur.com/KlRXoQI.png" title="source: imgur.com" /></a>
