@@ -8,7 +8,7 @@ This project was completed during my time on the General Assembly Data Science I
 
 Through my analysis of Yelp data, I aim to identify **common traits which are predictive of restaurant success and failure**, and to **use these insights to help new restaurants achieve success**.
 
-I performed various statistical learning models including **regression and classification predictive modeling, sentiment analysis, and natural language processing** to achieve the goal. I created classification models that predict future outcomes for restaurants with a 75% accuracy. Actionable insights were extracted from the dataset with statistical analysis, identifying problems and opportunities for a restaurant owner, proposing new ideas.
+I performed various statistical learning models including regression and classification predictive modeling, sentiment analysis, and natural language processing. I created classification models that predicted future outcomes for restaurants with 75% accuracy. Actionable insights were extracted from the dataset through statistical analysis, identifying risks and opportunities for a restaurant owner and proposing new ideas. 
 
 ## Files in This Repository
 
@@ -140,7 +140,7 @@ I found that:
 ### To Technical Audience
 The goal of this paper is to look for features in order to better predict the future success of a restaurant. I generated features through several aspects, and both text and non-text features were covered.
 
-It turns out that our model works fairly well, and achieved a 75+% accuracy in the end (65% baseline).
+It turns out that our model works fairly well, and achieved 75% accuracy in the end (65% baseline).
 
 Since the goal of this project is to help restaurant owners and investors decide if certain restaurant/category is worth investing, precision for the 'successful' class is critical. The precision rate for 'successful' class is 75%, which means that in all restaurants that models tried to predict, 75% of them were predicted correctly. The coefficient table was provided to understand which features are the most important for prediction.
 
