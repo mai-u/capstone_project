@@ -13,7 +13,7 @@ I performed various statistical learning models including regression and classif
 ## Files in This Repository
 
  - [**Presentation slides**](https://github.com/mai-u/capstone_project/blob/master/Capstone_Result_Presentation.pdf): This was prepared to present the project, results, and recommendations to non-technical audience 
--   [**Technical report**](https://nbviewer.jupyter.org/github/mai-u/capstone_project/blob/master/Capstone_Technical_Report.ipynb): This was prepared for reporting and explaining my project to technical audience. It is written in detail about a literature review, data cleaning, feature engineering process, exploratory data analysis, findings per research question, limitations and recommendations for future research. 
+-   [**Technical report**](https://nbviewer.jupyter.org/github/mai-u/capstone_project/blob/master/Technical_Report.ipynb): This was prepared for reporting and explaining my project to technical audience. It is written in detail about a literature review, data cleaning, feature engineering process, exploratory data analysis, findings per research question, limitations and recommendations for future research. 
 -   **Jupyter Notebook files (.ipynb)**:
 	-   Step 1: [Dataset and Data Collection](https://nbviewer.jupyter.org/github/mai-u/capstone_project/blob/master/Jupyter_Notebook_files/Step_01_Dataset_and_Data_Collection.ipynb)
 	-   Step 2: [Data Cleaning](https://nbviewer.jupyter.org/github/mai-u/capstone_project/blob/master/Jupyter_Notebook_files/Step_02_Data_Cleaning.ipynb)
