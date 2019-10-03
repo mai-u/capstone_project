@@ -140,7 +140,7 @@ I found that:
 ### To Technical Audience
 The goal of this paper is to look for features in order to better predict the future success of a restaurant. I generated features through several aspects, and both text and non-text features were covered.
 
-It turns out that our model works fairly well, and achieved 75% accuracy in the end (65% baseline).
+It turns out that our model works fairly well, and achieved 75% accuracy in the end.
 
 Since the goal of this project is to help restaurant owners and investors decide if certain restaurant/category is worth investing, precision for the 'successful' class is critical. The precision rate for 'successful' class is 75%, which means that in all restaurants that models tried to predict, 75% of them were predicted correctly. The coefficient table was provided to understand which features are the most important for prediction.
 
