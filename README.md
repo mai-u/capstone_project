@@ -118,7 +118,7 @@ I found that:
 -   People write more about service, especially when they wasted time and money and had terrible customer service. Also, they tend to leave specific points such as 'It took 20 minutes to get my food, the manager was terrible, mold beer, mold floating'.
 
 <a href="https://imgur.com/aZuLElw"><img src="https://i.imgur.com/aZuLElw.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/lQQVaaO"><img src="https://i.imgur.com/lQQVaaO.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/oBlqc2B"><img src="https://i.imgur.com/oBlqc2B.png" title="source: imgur.com" /></a>
 
 ## Conclusion
 
