@@ -124,7 +124,7 @@ I found that:
 
 ### To Client
 - Classification models managed to:
-    -   Predict future success with 75% accuracy (vs. baseline 67%)
+    -   Predict future success with 75% accuracy
     -   Identify:
         -   Good business practices
         -   Risks for business failure
