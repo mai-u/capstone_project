@@ -6,7 +6,7 @@ Capstone individual project (4 weeks timeframe):
 ## Executive Summary
 This project was completed during my time on the General Assembly Data Science Immersive course in London.
 
-Through my analysis of Yelp data, I aim to identify **common traits which are predictive of restaurant success and failure**, and to **use these insights to help new restaurants achieve success**.
+Through my analysis of Yelp data, I aim to **identify common traits which are predictive of restaurant success and failure**, and to **use these insights to help new restaurants achieve success**.
 
 I performed various statistical learning models including regression and classification predictive modeling, sentiment analysis, and natural language processing. I created classification models that predicted future outcomes for restaurants with 75% accuracy. Actionable insights were extracted from the dataset through statistical analysis, identifying risks and opportunities for a restaurant owner and proposing new ideas. 
 
