@@ -1,5 +1,5 @@
 
-Capstone individual project (4 weeks timeframe):
+Capstone individual project (4 week timeframe):
 # **“Ingredients for a successful restaurant - Predicting restaurant success and identifying good business practices”**
 
 
@@ -13,7 +13,7 @@ I performed various statistical learning models including regression and classif
 ## Files in This Repository
 
  - [**Presentation slides**](https://github.com/mai-u/capstone_project/blob/master/Capstone_Result_Presentation.pdf): This was prepared to present the project, results, and recommendations to non-technical audience 
--   [**Technical report**](https://nbviewer.jupyter.org/github/mai-u/capstone_project/blob/master/Technical_Report.ipynb): This was prepared for reporting and explaining my project to technical audience. It is written in detail about a literature review, data cleaning, feature engineering process, exploratory data analysis, findings per research question, limitations and recommendations for future research. 
+-   [**Technical report**](https://nbviewer.jupyter.org/github/mai-u/capstone_project/blob/master/Technical_Report.ipynb): This was prepared for reporting and explaining my project to a technical audience. It offers a detailed explanation of thea literature review, data cleaning, feature engineering process, exploratory data analysis, findings per research question, limitations and recommendations for future research. 
 -   **Jupyter Notebook files (.ipynb)**:
 	-   Step 1: [Dataset and Data Collection](https://nbviewer.jupyter.org/github/mai-u/capstone_project/blob/master/Jupyter_Notebook_files/Step_01_Dataset_and_Data_Collection.ipynb)
 	-   Step 2: [Data Cleaning](https://nbviewer.jupyter.org/github/mai-u/capstone_project/blob/master/Jupyter_Notebook_files/Step_02_Data_Cleaning.ipynb)
@@ -27,11 +27,11 @@ I performed various statistical learning models including regression and classif
 ## Problem Statement
 Opening a restaurant is often very costly and logistically complicated. It is not easy for restaurants to survive -  **60%**  of all restaurants close  **before their third anniversary,**  and  **80%**  **before their fifth**. However, it is often the case that restaurant owners and investors rely on their/others’ experiences and anecdotal evidence rather than a data-driven approach to decision making.
 
-My friends would like to know if machine learning can be useful in accuracy predicting future business success as well as determining which key attributes and business practices lead to success, as well as failure.
+My friends would like to know if machine learning can be useful in accurately predicting future business success as well as determining which key attributes and business practices lead to success, as well as failure.
 
 ## Objectives
 
-I defined research objectives as below:
+I defined research objectives as the following:
 1.  Predict the probability that a business will be closed in the near future
 2.  Identify good business practices
 3.  Create a tool that can help restaurant owners improve their likelihood of success
@@ -39,9 +39,9 @@ I defined research objectives as below:
 For the purpose of this capstone, the success or performance of a restaurant is considered to be the survival after three years due to the resource availability and limited time. The feature is generated based on the business status information which shows whether the restaurant is closed or open.
 
 ## Hypothesis
-My hypothesis is that peoples' perceptions are significantly predictive of business success. I would say:
+My hypothesis is that peoples' perceptions are significantly predictive of business success:
 -   Businesses with good ratings tend to be successful, and businesses with bad ratings remain open for a shorter time than the businesses with good or above average ratings.
--   If ratings do not contribute to the prediction, business successes are related to competitive advantages that refer to business attributes, service, and ambience that make them preferred choice of customers within the market.
+-   If ratings are not predictive of success, business success is related to competitive advantages involving business attributes, service, and ambience that make them preferred choice of customers within market.
     
 In addition to verifying this hypothesis, I would like to provide relevant insights to business owners/investors to help them achieve future business success.
 
@@ -90,7 +90,7 @@ I aimed to show the likelihood of success to restaurant owners by using predict_
 ### Question 1. Are customers’ perceptions correlated to future success? If so, what features are important to becoming a successful restaurant?
 Text features failed to have significant indications for the future success of the restaurant. 
 
-It turned out that the test and mean cross-validation scores of any models were almost the same as baseline. Also, I found that the sentiment feature groups are not significantly related to the prediction - the coefficient values turned out to be too sparse, which means that my models did not catch important information to predict business success. 
+It turned out that the test and mean cross-validation scores of any models were almost the same as baseline. Also, I found that the sentiment feature groups are not significantly predictive - the coefficient values turned out to be too sparse, which means that my models did not catch important information to predicting business success. 
 
 It implies that star rating and sentiment did no help in predicting the success of the restaurant. It leads to the conclusion that restaurants with low review stars and sentiment scores were not necessarily more likely to shut down.
 
@@ -114,7 +114,7 @@ Comparing the classifiers, eight out of ten classification models achieved simil
 I identified customer experience topics that lead to a positive or negative experience which are valuable insights for restaurant owners and investors.
 
 I found that:
--   Americans leave positive reviews of restaurants after they had a positive experience at restaurants - my expectation was. They also tend to talk about food, especially specific menu served at restaurants.
+-   Americans leave positive reviews of restaurants after they have positive experiences at restaurants in line with my expectation. They also tend to talk about food, especially specific menus served at restaurants.
 -   People write more about service, especially when they wasted time and money and had terrible customer service. Also, they tend to leave specific points such as 'It took 20 minutes to get my food, the manager was terrible, mold beer, mold floating'.
 
 <a href="https://imgur.com/aZuLElw"><img src="https://i.imgur.com/aZuLElw.png" title="source: imgur.com" /></a>
