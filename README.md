@@ -68,7 +68,7 @@ I used publicly available data on [Yelp](https://www.yelp.com/dataset/challenge)
 -   Check-ins and Tips (3+M)
 
 ## Exploratory Data Analysis
-<a href="https://imgur.com/EGw5nr9"><img src="https://i.imgur.com/EGw5nr9.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/ZLr0a2w"><img src="https://i.imgur.com/ZLr0a2w.png" title="source: imgur.com" /></a>
 
 ## Model Selection
 Since it is a binary classification problem (1 as successful and 0 as failed), I selected the following classifiers for question 1 and 2 and trained models based on features available in the dataset:
